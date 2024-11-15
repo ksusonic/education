@@ -1,3 +1,15 @@
 [submodule "AuthApp"]
 	path = AuthApp
 	url = https://github.com/ksusonic/AuthApp.git
+[submodule "gophermart"]
+	path = gophermart
+	url = https://github.com/ksusonic/gophermart.git
+[submodule "iad-intro-ds"]
+	path = iad-intro-ds
+	url = https://github.com/ksusonic/iad-intro-ds.git
+[submodule "alice-coffee"]
+        path = alice-coffee
+        url = https://github.com/ksusonic/alice-coffee.git
+[submodule "Adidas_Train_Scheduler"]
+        path = Adidas_Train_Scheduler
+        url = https://github.com/ksusonic/Adidas_Train_Scheduler.git
