@@ -13,3 +13,31 @@
 [submodule "Adidas_Train_Scheduler"]
         path = Adidas_Train_Scheduler
         url = https://github.com/ksusonic/Adidas_Train_Scheduler.git
+[submodule "anime-recsys"]
+	path = anime-recsys
+  	url = https://github.com/ksusonic/anime-recsys.git
+[submodule "bank-ml-mailing"]
+  	path = bank-ml-mailing
+  	url = https://github.com/ksusonic/bank-ml-mailing.git
+[submodule "data_platforms_hw"]
+  	path = data_platforms_hw
+  	url = https://github.com/ksusonic/data_platforms_hw.git
+[submodule "go-devops-mon"]
+  	path = go-devops-mon
+  	url = https://github.com/ksusonic/go-devops-mon.git
+[submodule "gophkeeper"]
+  	path = gophkeeper
+  	url = https://github.com/ksusonic/gophkeeper.git
+[submodule "linkshorter"]
+	path = linkshorter
+  	url = https://github.com/ksusonic/linkshorter.git
+[submodule "mlds-alg24-course"]
+  	path = mlds-alg24-course
+  	url = https://github.com/ksusonic/mlds-alg24-course.git
+[submodule "mlds-fastapi-task"]
+  	path = mlds-fastapi-task
+  	url = https://github.com/ksusonic/mlds-fastapi-task.git
+[submodule "shad-go"]
+ 	path = shad-go
+ 	url = https://github.com/ksusonic/shad-go.git
+
