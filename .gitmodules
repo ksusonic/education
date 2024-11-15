@@ -37,6 +37,9 @@
 [submodule "mlds-fastapi-task"]
   	path = mlds-fastapi-task
   	url = https://github.com/ksusonic/mlds-fastapi-task.git
+[submodule "mlds-ml-hw-1"]
+  	path = mlds-ml-hw-1
+  	url = https://github.com/ksusonic/mlds-ml-hw-1.git
 [submodule "shad-go"]
  	path = shad-go
  	url = https://github.com/ksusonic/shad-go.git
